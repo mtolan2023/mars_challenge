@@ -3,7 +3,7 @@ Module 11 Challenge
 
 This repo consists of 2 Juypter Notebooks for analyzing the Mars News and Mars Temperature Data websites and an output_data folder for CSV and JSON exports:
 
-Websites used: https://static.bc-edx.com/data/web/mars_news/index.html
+Websites used: https://static.bc-edx.com/data/web/mars_news/index.html <br />
               https://static.bc-edx.com/data/web/mars_facts/temperature.html
 
 1. part_1_mars_news.ipynb - scrapes titles and preview text from the Mars News site and compiles them into a list of dictionaries. This list is also exported as a JSON file for future use.
