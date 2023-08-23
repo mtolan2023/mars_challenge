@@ -1,5 +1,5 @@
 # mars_challenge
-Module 11 Challenge
+HTML Scraping and Analysis on Mars Data
 
 This repo consists of 2 Juypter Notebooks for analyzing the Mars News and Mars Temperature Data websites and an output_data folder for CSV and JSON exports:
 
